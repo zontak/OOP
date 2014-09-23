@@ -1,0 +1,6 @@
+E:\VisualStudioProjects\DeffiningClasses\04.SoftwareUniversityLearningSystem\bin\Debug\04.SoftwareUniversityLearningSystem.exe.config
+E:\VisualStudioProjects\DeffiningClasses\04.SoftwareUniversityLearningSystem\bin\Debug\04.SoftwareUniversityLearningSystem.exe
+E:\VisualStudioProjects\DeffiningClasses\04.SoftwareUniversityLearningSystem\bin\Debug\04.SoftwareUniversityLearningSystem.pdb
+E:\VisualStudioProjects\DeffiningClasses\04.SoftwareUniversityLearningSystem\obj\Debug\04.SoftwareUniversityLearningSystem.csprojResolveAssemblyReference.cache
+E:\VisualStudioProjects\DeffiningClasses\04.SoftwareUniversityLearningSystem\obj\Debug\04.SoftwareUniversityLearningSystem.exe
+E:\VisualStudioProjects\DeffiningClasses\04.SoftwareUniversityLearningSystem\obj\Debug\04.SoftwareUniversityLearningSystem.pdb
