@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Point3D", "Point3D\Point3D.csproj", "{B4642FE2-194E-4926-ADBF-F3BF1C499B60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NameSpaces", "NameSpaces\NameSpaces.csproj", "{EF5B0547-9A2C-4F0D-9699-7D48BC365DCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4642FE2-194E-4926-ADBF-F3BF1C499B60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4642FE2-194E-4926-ADBF-F3BF1C499B60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4642FE2-194E-4926-ADBF-F3BF1C499B60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4642FE2-194E-4926-ADBF-F3BF1C499B60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF5B0547-9A2C-4F0D-9699-7D48BC365DCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF5B0547-9A2C-4F0D-9699-7D48BC365DCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF5B0547-9A2C-4F0D-9699-7D48BC365DCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF5B0547-9A2C-4F0D-9699-7D48BC365DCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
