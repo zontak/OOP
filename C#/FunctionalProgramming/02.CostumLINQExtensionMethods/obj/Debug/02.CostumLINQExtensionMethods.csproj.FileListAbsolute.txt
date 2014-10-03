@@ -1,0 +1,6 @@
+E:\VisualStudioProjects\FunctionalProgramming\02.CostumLINQExtensionMethods\bin\Debug\02.CostumLINQExtensionMethods.exe.config
+E:\VisualStudioProjects\FunctionalProgramming\02.CostumLINQExtensionMethods\bin\Debug\02.CostumLINQExtensionMethods.exe
+E:\VisualStudioProjects\FunctionalProgramming\02.CostumLINQExtensionMethods\bin\Debug\02.CostumLINQExtensionMethods.pdb
+E:\VisualStudioProjects\FunctionalProgramming\02.CostumLINQExtensionMethods\obj\Debug\02.CostumLINQExtensionMethods.csprojResolveAssemblyReference.cache
+E:\VisualStudioProjects\FunctionalProgramming\02.CostumLINQExtensionMethods\obj\Debug\02.CostumLINQExtensionMethods.exe
+E:\VisualStudioProjects\FunctionalProgramming\02.CostumLINQExtensionMethods\obj\Debug\02.CostumLINQExtensionMethods.pdb

@@ -1,0 +1,5 @@
+E:\VisualStudioProjects\OtherTypesAndOOP\FractionCalculator\bin\Debug\FractionCalculator.exe.config
+E:\VisualStudioProjects\OtherTypesAndOOP\FractionCalculator\bin\Debug\FractionCalculator.exe
+E:\VisualStudioProjects\OtherTypesAndOOP\FractionCalculator\bin\Debug\FractionCalculator.pdb
+E:\VisualStudioProjects\OtherTypesAndOOP\FractionCalculator\obj\Debug\FractionCalculator.exe
+E:\VisualStudioProjects\OtherTypesAndOOP\FractionCalculator\obj\Debug\FractionCalculator.pdb

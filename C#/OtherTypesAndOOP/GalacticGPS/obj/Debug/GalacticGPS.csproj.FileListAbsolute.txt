@@ -1,0 +1,6 @@
+E:\VisualStudioProjects\OtherTypesAndOOP\GalacticGPS\bin\Debug\GalacticGPS.exe.config
+E:\VisualStudioProjects\OtherTypesAndOOP\GalacticGPS\bin\Debug\GalacticGPS.exe
+E:\VisualStudioProjects\OtherTypesAndOOP\GalacticGPS\bin\Debug\GalacticGPS.pdb
+E:\VisualStudioProjects\OtherTypesAndOOP\GalacticGPS\obj\Debug\GalacticGPS.csprojResolveAssemblyReference.cache
+E:\VisualStudioProjects\OtherTypesAndOOP\GalacticGPS\obj\Debug\GalacticGPS.exe
+E:\VisualStudioProjects\OtherTypesAndOOP\GalacticGPS\obj\Debug\GalacticGPS.pdb

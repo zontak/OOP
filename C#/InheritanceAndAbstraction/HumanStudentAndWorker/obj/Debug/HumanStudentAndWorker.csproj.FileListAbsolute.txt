@@ -1,0 +1,6 @@
+E:\VisualStudioProjects\InheritanceAndAbstraction\HumanStudentAndWorker\bin\Debug\HumanStudentAndWorker.exe.config
+E:\VisualStudioProjects\InheritanceAndAbstraction\HumanStudentAndWorker\bin\Debug\HumanStudentAndWorker.exe
+E:\VisualStudioProjects\InheritanceAndAbstraction\HumanStudentAndWorker\bin\Debug\HumanStudentAndWorker.pdb
+E:\VisualStudioProjects\InheritanceAndAbstraction\HumanStudentAndWorker\obj\Debug\HumanStudentAndWorker.exe
+E:\VisualStudioProjects\InheritanceAndAbstraction\HumanStudentAndWorker\obj\Debug\HumanStudentAndWorker.pdb
+E:\VisualStudioProjects\InheritanceAndAbstraction\HumanStudentAndWorker\obj\Debug\HumanStudentAndWorker.csprojResolveAssemblyReference.cache

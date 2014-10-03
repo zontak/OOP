@@ -1,0 +1,6 @@
+E:\VisualStudioProjects\InheritanceAndAbstraction\Animals\bin\Debug\Animals.exe.config
+E:\VisualStudioProjects\InheritanceAndAbstraction\Animals\bin\Debug\Animals.exe
+E:\VisualStudioProjects\InheritanceAndAbstraction\Animals\bin\Debug\Animals.pdb
+E:\VisualStudioProjects\InheritanceAndAbstraction\Animals\obj\Debug\Animals.csprojResolveAssemblyReference.cache
+E:\VisualStudioProjects\InheritanceAndAbstraction\Animals\obj\Debug\Animals.exe
+E:\VisualStudioProjects\InheritanceAndAbstraction\Animals\obj\Debug\Animals.pdb
